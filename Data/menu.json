@@ -1,0 +1,5 @@
+[
+  { "id": 1, "restaurant_id": 1, "item": "Paneer Tikka", "price": 240 },
+  { "id": 2, "restaurant_id": 1, "item": "Veg Biryani", "price": 180 },
+  { "id": 3, "restaurant_id": 2, "item": "Chicken Roll", "price": 150 }
+]

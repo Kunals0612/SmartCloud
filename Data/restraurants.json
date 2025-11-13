@@ -1,0 +1,5 @@
+[
+  { "id": 1, "name": "TastyBite", "city": "Mumbai" },
+  { "id": 2, "name": "FoodHub", "city": "Pune" },
+  { "id": 3, "name": "SpiceRoute", "city": "Delhi" }
+]
