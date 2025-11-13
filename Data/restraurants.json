@@ -1,5 +1,137 @@
 [
-  { "id": 1, "name": "TastyBite", "city": "Mumbai" },
-  { "id": 2, "name": "FoodHub", "city": "Pune" },
-  { "id": 3, "name": "SpiceRoute", "city": "Delhi" }
+  {
+    "id": 1,
+    "name": "Royal Orchid Inn",
+    "city": "Mumbai",
+    "rating": 4.2,
+    "price_per_night": 3200,
+    "amenities": ["wifi", "breakfast", "ac"],
+    "rooms_available": 12
+  },
+  {
+    "id": 2,
+    "name": "Sunset Bay Resort",
+    "city": "Goa",
+    "rating": 4.6,
+    "price_per_night": 5400,
+    "amenities": ["pool", "wifi", "bar", "spa"],
+    "rooms_available": 7
+  },
+  {
+    "id": 3,
+    "name": "Maple Leaf Hotel",
+    "city": "Bangalore",
+    "rating": 4.0,
+    "price_per_night": 2800,
+    "amenities": ["wifi", "gym"],
+    "rooms_available": 20
+  },
+  {
+    "id": 4,
+    "name": "Grand Palace Suites",
+    "city": "Delhi",
+    "rating": 4.5,
+    "price_per_night": 4500,
+    "amenities": ["wifi", "ac", "breakfast", "room_service"],
+    "rooms_available": 9
+  },
+  {
+    "id": 5,
+    "name": "Himalayan View Lodge",
+    "city": "Manali",
+    "rating": 4.7,
+    "price_per_night": 3700,
+    "amenities": ["mountain_view", "wifi", "heater"],
+    "rooms_available": 6
+  },
+  {
+    "id": 6,
+    "name": "Blue Lagoon Hotel",
+    "city": "Kochi",
+    "rating": 4.1,
+    "price_per_night": 3100,
+    "amenities": ["wifi", "restaurant"],
+    "rooms_available": 15
+  },
+  {
+    "id": 7,
+    "name": "Cityline Executive Stay",
+    "city": "Pune",
+    "rating": 3.9,
+    "price_per_night": 2200,
+    "amenities": ["wifi"],
+    "rooms_available": 18
+  },
+  {
+    "id": 8,
+    "name": "Oceanic Breeze Resort",
+    "city": "Chennai",
+    "rating": 4.4,
+    "price_per_night": 4800,
+    "amenities": ["wifi", "pool", "gym", "spa"],
+    "rooms_available": 11
+  },
+  {
+    "id": 9,
+    "name": "Desert Star Hotel",
+    "city": "Jaisalmer",
+    "rating": 4.3,
+    "price_per_night": 3500,
+    "amenities": ["wifi", "breakfast", "desert_safari"],
+    "rooms_available": 5
+  },
+  {
+    "id": 10,
+    "name": "Green Valley Retreat",
+    "city": "Munnar",
+    "rating": 4.6,
+    "price_per_night": 4000,
+    "amenities": ["wifi", "nature_view", "breakfast"],
+    "rooms_available": 8
+  },
+  {
+    "id": 11,
+    "name": "Coral Reef Luxury Stay",
+    "city": "Port Blair",
+    "rating": 4.5,
+    "price_per_night": 5200,
+    "amenities": ["wifi", "beach_access", "pool"],
+    "rooms_available": 4
+  },
+  {
+    "id": 12,
+    "name": "Orbit Residency",
+    "city": "Hyderabad",
+    "rating": 4.0,
+    "price_per_night": 2900,
+    "amenities": ["wifi", "gym"],
+    "rooms_available": 16
+  },
+  {
+    "id": 13,
+    "name": "Silver Cloud Hotel",
+    "city": "Surat",
+    "rating": 3.8,
+    "price_per_night": 2100,
+    "amenities": ["wifi", "ac"],
+    "rooms_available": 25
+  },
+  {
+    "id": 14,
+    "name": "Lakeview Premium Resort",
+    "city": "Udaipur",
+    "rating": 4.7,
+    "price_per_night": 5500,
+    "amenities": ["wifi", "lake_view", "spa", "bar"],
+    "rooms_available": 6
+  },
+  {
+    "id": 15,
+    "name": "Amber Woods Stay",
+    "city": "Nagpur",
+    "rating": 4.1,
+    "price_per_night": 2700,
+    "amenities": ["wifi", "breakfast"],
+    "rooms_available": 13
+  }
 ]
